@@ -88,3 +88,6 @@ Removing devops-in-practice-workshop_pet-app_1  ... done
 Removing devops-in-practice-workshop_database_1 ... done
 Removing network devops-in-practice-workshop_default
 ```
+BY-NOTE:
+1) the container names are auto-generated using the root folder name, image name, and counter
+2) after running 'docker-compose up' terminal is hijacked. need to open another
